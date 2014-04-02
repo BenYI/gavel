@@ -54,3 +54,5 @@ Comment
 
 ---
 [![Code Climate](https://codeclimate.com/github/wfalkwallace/gavel.png)](https://codeclimate.com/github/wfalkwallace/gavel)
+
+Just adding that edit for the final. Good luck. :D
